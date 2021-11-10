@@ -1,0 +1,23 @@
+.caja1{
+    border-bottom:ridge aqua 10px;
+    border-top: dashed black 10px; 
+    border-left: inset blueviolet 10px;
+    border-right:solid rgb(226, 111, 58) 10px;
+    background-color: deepskyblue;
+}
+.caja2{
+    border: 1px solid black;
+    background-color: rgb(84, 231, 224);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+.caja2{
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: blueviolet
+}
